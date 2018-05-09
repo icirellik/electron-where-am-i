@@ -1,0 +1,19 @@
+{
+  "name": "electron-where-am-i",
+  "version": "1.0.0",
+  "description": "Helps a user to determine where in electron their code is running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/electron-where-am-i.git"
+  },
+  "author": "Cameron Rollheiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/electron-where-am-i/issues"
+  },
+  "homepage": "https://github.com/icirellik/electron-where-am-i#readme"
+}
